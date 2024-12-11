@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: image-set("a.jpg") 
+    background-image: image-set("img/i.jpg") 
     
 }
 .container{
