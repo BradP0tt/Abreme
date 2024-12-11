@@ -18,7 +18,7 @@ $btnNo.addEventListener("mouseover",()=>{
 $btnYes.addEventListener("click",()=>{
     let $div=document.createElement("div"),
         $fragment=document.createDocumentFragment();
-    $div.innerHTML="<h1>Gracias por decir que sí, Te quiero guapaa<3 (Confirma en ig jijji) :)</h1>";
+    $div.innerHTML="<h1>Gracias por decir que sí, Te quiero guapaa<3</h1>";
     $div.style.backgroundColor="violet";
     $fragment.appendChild($div);
     
